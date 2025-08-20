@@ -1,0 +1,8 @@
+{
+  "last_id": 3,
+  "items": {
+    "15": {"id": 15, "first_name": "Иван", "last_name": "Петров", "deals": [1, 2]},
+    "25": {"id": 25, "first_name": "Наталья", "last_name": "Сидорова", "deals": [1]},
+    "35": {"id": 35, "first_name": "Василий", "last_name": "Иванов", "deals": []}
+  }
+}
